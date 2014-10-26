@@ -1,4 +1,4 @@
-## Funtions for the second programming assignment (just a bi) 
+## Funtions for the second programming assignment (just a number of example's modifications) 
 
 ##  This function caches matrix and it's inversion
 
